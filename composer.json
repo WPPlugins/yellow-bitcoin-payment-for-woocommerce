@@ -1,0 +1,13 @@
+{
+    "name": "yellow/yellowdemo-php",
+    "require": {
+        "yellow/php-sdk": ">0.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tawfek Daghistani",
+            "email": "tawfekov@gmail.com"
+        }
+    ]
+}
